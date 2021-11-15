@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hendabastian
-- 📫 You can reach me on instagram: @hendabastian
+- Full-stack evangelist
 
 <!---
 hendabastian/hendabastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
